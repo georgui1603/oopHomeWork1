@@ -50,10 +50,15 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Player.cs" />
-     <Compile Include="Assets\Scripts\PlayerBall.cs" />
-     <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\Example.cs" />
+     <Compile Include="Assets\Scripts\GameController.cs" />
+     <Compile Include="Assets\Scripts\DisposeExample.cs" />
+     <Compile Include="Assets\Scripts\GoodBonus.cs" />
+     <Compile Include="Assets\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Scripts\PlayerBall.cs" />
+     <Compile Include="Assets\Scripts\BadBonus.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\Test.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>H:/Домашка/Мартыненко Георгий Дз/Мартыненко Георгий Дз/New Unity Project (3)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

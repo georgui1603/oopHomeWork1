@@ -18,15 +18,15 @@ namespace HelloTeacher
          public float Test;
       }
    }
-   public class Test : MonoBehaviour
-   {
-      private void Start()
-      {
-         HelloTeacher.MyNamespase.HelloTeacher.Example example1 = new MyNamespase.HelloTeacher.Example();
-         HelloTeacher.Example example2 = new Example();
-         global::Example example3 = new global::Example();
-      }
-   }
+   // public class Test : MonoBehaviour
+   // {
+   //    private void Start()
+   //    {
+   //       HelloTeacher.MyNamespase.HelloTeacher.Example example1 = new MyNamespase.HelloTeacher.Example();
+   //       HelloTeacher.Example example2 = new Example();
+   //       global::Example example3 = new global::Example();
+   //    }
+   // }
      
    
       
